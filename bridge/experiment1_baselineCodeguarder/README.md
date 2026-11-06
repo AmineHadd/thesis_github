@@ -3,35 +3,12 @@
 Each repair model answers two prompts for the same 70 Python vulnerabilities
 from PatchEval:
 
-    arm B   PatchEval's repair prompt with no retrieved knowledge   (baseline)
+    arm B   PatchEval's repair prompt with no retrieved knowledge   
     arm G   the same prompt plus CodeGuarder's security-knowledge block
             (their knowledge, not their full prompt)
 
 Models: GPT-4.1 (2025-04-14), DeepSeek-V3 (0324), DeepSeek-R1 (0528) and
 Gemini 2.5 Pro. `config.json` holds their ids, hosts and token budgets.
-
-## Why B and G are comparable
-
-Both arms use one template, `prompts/repair_template.txt`, and differ only in
-what fills `${external_knowledge}`: nothing in B, the security-knowledge block
-of CodeGuarder's `construct_prompt` in G. `run.py verify` checks this: every
-B prompt equals the template with an empty slot, and removing the knowledge
-block from a G prompt gives back exactly that B prompt. B → G therefore measures
-adding the retrieved block as a whole, including its content and prompt-length
-effects (G is 1.36× longer than B).
-
-Everything else is also fixed per model: the same 70 targets, temperature 0,
-the same `max_tokens`, the same serving host, the same Pass@1 policy, the same
-patch construction (PatchEval's `PatchParser` and `FuncReplacer`) and the same
-scoring (PatchEval's `run_evaluation.py` on `data/evaluation_instances.json`).
-We changed only its Docker handling: a longer client timeout, keeping the patch
-file until the container is removed, clearer start-up errors, and an optional
-image-removal setting we do not use. The scoring logic is unchanged.
-
-`max_tokens` is 16384 for every model except Gemini 2.5 Pro, whose reasoning
-and answer share one budget; it runs at the endpoint's maximum of 65536, and
-all 140 of its answers end with `finish_reason` "stop". Each OpenRouter model
-is pinned to one host, recorded in `artifacts/runs/<model>/serving_<arm>.json`.
 
 ## Targets
 
@@ -67,24 +44,8 @@ The template is `exp_llm/prompt_templates/Default.txt` with four edits:
      becomes single.
 
 
-Only the first two edits matter. PatchEval's released one-shot examples are in
-`datasets/input.json` (60 CVEs, 9 of them among our 70); `patcheval_dataset.json`
-has no one-shot field. So a worked example was released for 9 of our targets, and
-the released files do not show what the authors' prompts held for the other 61.
-The baseline keeps none: adding one for 9 of 70 would make it non-uniform, and a
-worked example is itself injected knowledge, which is what arm G measures.
 
-## Comparison with the PatchEval authors
-
-The authors' per-CVE results are in `../data/authors_*_reference.json`. Their
-`epoch1` column (one sample per target) is the comparable one; their headline
-figure uses up to 10 feedback epochs and is shown for context only. Because
-any change in prompt, host or sample can shift an output, we report agreement,
-not replication: B agrees with their epoch 1 on 67/70 (GPT-4.1), 63/70
-(DeepSeek-V3), 67/70 (DeepSeek-R1) and 61/70 (Gemini 2.5 Pro) targets. Of the
-3, 7, 3 and 9 disagreements, 1, 2, 1 and 1 are among the 9 example targets.
-
-## Reused from CodeGuarder, unmodified
+## Reused from CodeGuarder
 
 From `CodeGuarder/src/Defense_Standard.py` and `utils.py`:
 
@@ -177,18 +138,4 @@ only complete batches whose patch hash matches; after an interruption, the same
 command can safely be run again. If `evaluate` is interrupted, delete the
 unfinished batch folder first.
 
-## What `verify` checks
 
-Ten checks, in six groups, recorded in `artifacts/verification.json`:
-
-  1. The targets equal a fresh build from PatchEval's dataset and carry no
-     reference fix, proof-of-concept or test.
-  2. `find_root_causes` and `remove_duplicates_preserve_order` are
-     byte-identical to CodeGuarder's source.
-  3. Every injected block appears verbatim in the output of their
-     `construct_prompt`.
-  4. The index has the recorded size, and each target's two records are the
-     exact nearest neighbours, recomputed by brute force.
-  5. The template is `Default.txt` with the four edits above and nothing else.
-  6. Every B prompt is the template with an empty slot, and every G prompt
-     reduces to its B prompt when the block is removed.
