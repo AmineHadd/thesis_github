@@ -1,0 +1,562 @@
+{
+  "CVE-2015-1326": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2015-8213": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2017-0360": {
+    "strict": true,
+    "poc": true,
+    "unit_test": "True",
+    "validation_type": "Repair Success",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2017-7233": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2018-14574": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2018-18074": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2018-7753": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2019-10856": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2019-16789": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2019-7539": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2020-10691": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2020-15278": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2020-25459": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2020-26215": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-21354": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-21360": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-23727": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-31542": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-3281": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-33203": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-35042": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-3583": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-39163": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-3987": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-41125": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-4315": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2021-45452": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-0577": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-21683": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-21699": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-21712": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-24065": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-28346": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-28347": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-29217": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-31506": {
+    "strict": true,
+    "poc": true,
+    "unit_test": "True",
+    "validation_type": "Repair Success",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-3298": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-36087": {
+    "strict": true,
+    "poc": true,
+    "unit_test": "True",
+    "validation_type": "Repair Success",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-39286": {
+    "strict": true,
+    "poc": true,
+    "unit_test": "True",
+    "validation_type": "Repair Success",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-41672": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2022-4724": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-26145": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-29159": {
+    "strict": true,
+    "poc": true,
+    "unit_test": "True",
+    "validation_type": "Repair Success",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-30172": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-32303": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-33977": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-34233": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-34457": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-39631": {
+    "strict": false,
+    "poc": true,
+    "unit_test": "False",
+    "validation_type": "compilation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-39660": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-40267": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-41039": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-41040": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-45809": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-49736": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2023-6831": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-0243": {
+    "strict": false,
+    "poc": true,
+    "unit_test": "False",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-21542": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "compilation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-23334": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-3571": {
+    "strict": true,
+    "poc": true,
+    "unit_test": "True",
+    "validation_type": "Repair Success",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-3848": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-39330": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-39877": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-42005": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-48911": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-49750": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2024-5823": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2025-23042": {
+    "strict": true,
+    "poc": true,
+    "unit_test": "True",
+    "validation_type": "Repair Success",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2025-27154": {
+    "strict": false,
+    "poc": true,
+    "unit_test": "False",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  },
+  "CVE-2025-43859": {
+    "strict": false,
+    "poc": false,
+    "unit_test": "None",
+    "validation_type": "validation_fail",
+    "infrastructure_error": false,
+    "reason": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "model": "gpt-4.1",
+  "model_id": "gpt-4.1-2025-04-14",
+  "strict": {
+    "B": {
+      "passed": 7,
+      "n": 70
+    },
+    "G": {
+      "passed": 6,
+      "n": 70
+    },
+    "authors": {
+      "passed": 6,
+      "n": 70
+    }
+  },
+  "poc_only": {
+    "B": {
+      "passed": 10,
+      "n": 70
+    },
+    "G": {
+      "passed": 9,
+      "n": 70
+    },
+    "authors": {
+      "passed": 9,
+      "n": 70
+    }
+  },
+  "infrastructure_errors": {
+    "B": 0,
+    "G": 0
+  },
+  "authors_ten_epoch": 30
+}

@@ -1,0 +1,25 @@
+{
+  "embedding_model": "jinaai/jina-embeddings-v3",
+  "embedding_model_revision": "ab036b023d30b4d1138c4c3bfa9f0c445ab455d6",
+  "root_cause_num": 5,
+  "root_cause_per_module": 2,
+  "vector_db": "bridge/data/vector_db",
+  "index_records": 16141,
+  "index_dim": 1024,
+  "sha256": {
+    "corpus": "7554c67a3901653a769922b6ccfd00a32a670a948b5846158d4487c113831b73",
+    "index_faiss": "9498e906418a7a8360df220c7b717b296c2f01b97788ddd98c39507dc02b7a32",
+    "index_pkl": "8f0cbc83dcd6c87c4a1ec5aa82645ccfd2b2e8fe8c9422602d3d42f2d952c9c3",
+    "query_embeddings": "f10a20b1d8f942b76e453c0055ba04fce52cc12364039096802a49df427c012e"
+  },
+  "codeguarder_functions": {
+    "find_root_causes": {
+      "sha256": "bdb6a5f20cf114070d532cd686dbdace7c56d29ee166735c4c5cf79676dace32",
+      "source": "def find_root_causes(vector_db, query_text, top_k=3):\n    similar_docs = vector_db.similarity_search(query_text, k=top_k)\n    return similar_docs"
+    },
+    "remove_duplicates_preserve_order": {
+      "sha256": "403f5d3f39ec88e78bb7a30660a163a2b166ff52fc209062c950020ec9362c2c",
+      "source": "def remove_duplicates_preserve_order(lst: List[str]) -> List[str]:\n    seen = set()\n    result = []\n    for item in lst:\n        if item not in seen:\n            seen.add(item)\n            result.append(item)\n    return result"
+    }
+  }
+}

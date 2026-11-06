@@ -1,0 +1,492 @@
+{
+  "CVE-2015-1326": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2015-8213": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2017-0360": {
+    "epoch1_status": "success",
+    "epoch1_poc": true,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 1
+  },
+  "CVE-2017-7233": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2018-14574": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2018-18074": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2018-7753": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2019-10856": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 3
+  },
+  "CVE-2019-16789": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2019-7539": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2020-10691": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2020-15278": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2020-25459": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2020-26215": {
+    "epoch1_status": "success",
+    "epoch1_poc": true,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 1
+  },
+  "CVE-2021-21354": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2021-21360": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2021-23727": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2021-31542": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2021-3281": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2021-33203": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "success",
+    "epochs_run": 3
+  },
+  "CVE-2021-35042": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2021-3583": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2021-39163": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2021-3987": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": "No unit-test",
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2021-41125": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "success",
+    "epochs_run": 10
+  },
+  "CVE-2021-4315": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2021-45452": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2022-0577": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2022-21683": {
+    "epoch1_status": "success",
+    "epoch1_poc": true,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 1
+  },
+  "CVE-2022-21699": {
+    "epoch1_status": "success",
+    "epoch1_poc": true,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 1
+  },
+  "CVE-2022-21712": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2022-24065": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 7
+  },
+  "CVE-2022-28346": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2022-28347": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2022-29217": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2022-31506": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2022-3298": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2022-36087": {
+    "epoch1_status": "success",
+    "epoch1_poc": true,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 1
+  },
+  "CVE-2022-39286": {
+    "epoch1_status": "success",
+    "epoch1_poc": true,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 1
+  },
+  "CVE-2022-41672": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 5
+  },
+  "CVE-2022-4724": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2023-26145": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 3
+  },
+  "CVE-2023-29159": {
+    "epoch1_status": "success",
+    "epoch1_poc": true,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 1
+  },
+  "CVE-2023-30172": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2023-32303": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2023-33977": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": "No unit-test",
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2023-34233": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2023-34457": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 6
+  },
+  "CVE-2023-39631": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2023-39660": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2023-40267": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 8
+  },
+  "CVE-2023-41039": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 3
+  },
+  "CVE-2023-41040": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2023-45809": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2023-49736": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": "No unit-test",
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2023-6831": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 5
+  },
+  "CVE-2024-0243": {
+    "epoch1_status": "success",
+    "epoch1_poc": true,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 1
+  },
+  "CVE-2024-21542": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": "No unit-test",
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2024-23334": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2024-3571": {
+    "epoch1_status": "success",
+    "epoch1_poc": true,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 1
+  },
+  "CVE-2024-3848": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 2
+  },
+  "CVE-2024-39330": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 4
+  },
+  "CVE-2024-39877": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 5
+  },
+  "CVE-2024-42005": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "success",
+    "epochs_run": 8
+  },
+  "CVE-2024-48911": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": "No unit-test",
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2024-49750": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": false,
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2024-5823": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": "No unit-test",
+    "final_status": "fail",
+    "epochs_run": 10
+  },
+  "CVE-2025-23042": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 5
+  },
+  "CVE-2025-27154": {
+    "epoch1_status": "success",
+    "epoch1_poc": true,
+    "epoch1_unittest": true,
+    "final_status": "success",
+    "epochs_run": 1
+  },
+  "CVE-2025-43859": {
+    "epoch1_status": "fail",
+    "epoch1_poc": false,
+    "epoch1_unittest": true,
+    "final_status": "fail",
+    "epochs_run": 10
+  }
+}

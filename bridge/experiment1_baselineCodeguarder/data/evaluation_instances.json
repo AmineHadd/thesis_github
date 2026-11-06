@@ -1,0 +1,282 @@
+[
+  {
+    "cve_id": "CVE-2020-25459",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-33203",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2025-43859",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-3281",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-0577",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-5823",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-4724",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-30172",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-35042",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-39286",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-45809",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-34457",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-23727",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2018-14574",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-21542",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-41125",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2015-8213",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-4315",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2015-1326",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-49736",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-39330",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2020-15278",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-21699",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-31542",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-45452",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-41672",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-28347",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2018-18074",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-39660",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2019-10856",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2017-0360",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-33977",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-26145",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-3571",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2017-7233",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-21683",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-3583",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-29217",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2025-23042",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-28346",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-39631",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-41040",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-0243",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-21354",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-31506",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-23334",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-3298",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-3987",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-29159",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-6831",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2019-16789",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-24065",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-32303",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-21360",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-49750",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2019-7539",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-42005",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-48911",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-21712",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2022-36087",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-3848",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-41039",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2021-39163",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2020-26215",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-40267",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2025-27154",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2024-39877",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2023-34233",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2020-10691",
+    "programming_language": "Python"
+  },
+  {
+    "cve_id": "CVE-2018-7753",
+    "programming_language": "Python"
+  }
+]

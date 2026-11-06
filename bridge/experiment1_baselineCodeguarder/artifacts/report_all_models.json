@@ -1,0 +1,62 @@
+[
+  {
+    "model": "gpt-4.1",
+    "model_id": "gpt-4.1-2025-04-14",
+    "strict": {
+      "B": 7,
+      "G": 6,
+      "authors": 6
+    },
+    "poc_only": {
+      "B": 10,
+      "G": 9,
+      "authors": 9
+    },
+    "authors_ten_epoch": 30
+  },
+  {
+    "model": "deepseek-v3",
+    "model_id": "deepseek/deepseek-chat-v3-0324",
+    "strict": {
+      "B": 8,
+      "G": 5,
+      "authors": 5
+    },
+    "poc_only": {
+      "B": 10,
+      "G": 9,
+      "authors": 9
+    },
+    "authors_ten_epoch": 13
+  },
+  {
+    "model": "gemini-2.5-pro",
+    "model_id": "google/gemini-2.5-pro",
+    "strict": {
+      "B": 10,
+      "G": 10,
+      "authors": 9
+    },
+    "poc_only": {
+      "B": 13,
+      "G": 11,
+      "authors": 12
+    },
+    "authors_ten_epoch": 40
+  },
+  {
+    "model": "deepseek-r1",
+    "model_id": "deepseek/deepseek-r1-0528",
+    "strict": {
+      "B": 11,
+      "G": 7,
+      "authors": 10
+    },
+    "poc_only": {
+      "B": 13,
+      "G": 9,
+      "authors": 10
+    },
+    "authors_ten_epoch": 35
+  }
+]

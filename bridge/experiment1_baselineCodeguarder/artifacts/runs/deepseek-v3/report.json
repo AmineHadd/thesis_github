@@ -1,0 +1,37 @@
+{
+  "model": "deepseek-v3",
+  "model_id": "deepseek/deepseek-chat-v3-0324",
+  "strict": {
+    "B": {
+      "passed": 8,
+      "n": 70
+    },
+    "G": {
+      "passed": 5,
+      "n": 70
+    },
+    "authors": {
+      "passed": 5,
+      "n": 70
+    }
+  },
+  "poc_only": {
+    "B": {
+      "passed": 10,
+      "n": 70
+    },
+    "G": {
+      "passed": 9,
+      "n": 70
+    },
+    "authors": {
+      "passed": 9,
+      "n": 70
+    }
+  },
+  "infrastructure_errors": {
+    "B": 0,
+    "G": 0
+  },
+  "authors_ten_epoch": 13
+}

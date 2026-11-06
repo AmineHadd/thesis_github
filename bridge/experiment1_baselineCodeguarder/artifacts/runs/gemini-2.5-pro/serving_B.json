@@ -1,0 +1,492 @@
+{
+  "CVE-2022-36087": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792328259-ILCFtZKTRpR63AmcFW6T",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-33977": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792328617-ghqLdl3vU6f7wAUcEZgJ",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 1
+  },
+  "CVE-2024-23334": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792328659-vDpuYCJVZmtcIgiluCL6",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-0577": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792328719-lqWsg6T45ki8Zv2bBest",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-31542": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792328784-W3ntD7GHvmrxBS6R74V8",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-35042": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792328833-TiicRKDDNip0gY9K6Zh0",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2024-39877": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792328875-qIY5a9KyTOhFrFTOOsev",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2019-10856": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792328901-tGVbXLWsxcBUH1PW8paU",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2024-42005": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792328951-jiU1kWWDMqrPTkTl4jED",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2024-49750": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329047-HuiNL7iDqzJTWPSjVEFq",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-39286": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329161-I3pVYwdxRrujstGdFIx2",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-39163": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329180-WPmjJ2aiFFoFrdLUdOrl",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2020-26215": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329218-ShDvvENyJaiqY9p7oFuh",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2015-8213": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329260-vxpYRE70kLc5JEO1iVdt",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2017-7233": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329303-W1m7IKt0AlERmvDZqt47",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2018-7753": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329431-YHgkAOkIQ86jqyEoi5wg",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-4315": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329564-LWWjnIE9c8zfGk1BvG5J",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-21683": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329615-AOt6kvLXwlhNupAmEJOY",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-21712": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329681-CkXeDNTwzvFsOFFlmwN6",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2017-0360": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329727-fmQyS8F4d90iGOb3Pyov",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-3583": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329769-Xprf2mXlxBn2zTZq4UKF",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-41039": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329875-mGQfN4srXM1JUHQDznsj",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-41672": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792329951-LWG7OjPcFnHMPTTufOUx",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-41040": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330003-y5G2mapYBRP9qBUA4YUm",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-34233": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330057-yacPe262Xo0uoD07dUJv",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-24065": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330123-ElyDiLiJYJNcZo1iJA2s",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-21360": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330458-CiXpvqHoCL7YylaN5QQB",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 1
+  },
+  "CVE-2022-4724": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330510-ZPkWiFkimiJYNuEmfjcc",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2020-25459": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330586-Ho4Petvf3RUyMmtUL7kW",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-21354": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330620-JcfWDVrx0EuDRSO7VuWd",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-3987": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330666-bdxjV2dmWBfrbvfU3rGk",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2018-14574": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330721-cJczNFNYUWJZ3hOdhm1m",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2025-43859": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330789-F3M6qi5frQK5NkfyBBsj",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-49736": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330916-e8F2ZT4jvgCsXUUxoXwZ",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-34457": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792330969-pOEWS7U1TFd3RnEyt1SN",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2024-48911": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792331105-DdjWOgkrO4A6BZ6hTCih",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-45809": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792331174-FRz1rMp2LY0CyQ8E2G7G",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2015-1326": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792331207-tbda8gaCsRVrb4XFOtOB",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2024-3848": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792331264-TcCbnxnSd5PUdyvI6j1g",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2024-3571": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792333444-vuGfAKxlbqbIAmGKGPdO",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2019-16789": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792333518-hUytDj1xKHN5zI3LOiMc",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2024-39330": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792333596-4WaOm6jePy1CgJRvZpFj",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-3281": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792333665-JPzCMfVM6ehauu7PVDgg",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-41125": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792333719-9HA1H9UBdGEMVuvidxlV",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-28346": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792333765-aptpbaFtZYFV2p9oz5y4",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2020-15278": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792333811-leIJo16upD8XCytamqLO",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-30172": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792333918-ACyflSls6Q5beEb4eDol",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-39631": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792333999-oMv0QlzaiHaDlFKJHRrQ",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2024-21542": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334031-WNppo5RQnNGy0SAQJhY2",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2024-0243": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334075-cMR2WRT84oubiv7blRJU",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-23727": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334100-XHmhsV8frj3K7c4diIZB",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-39660": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334156-047pHQuWUduUVwYKbAd2",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-40267": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334226-CSWk16RbuvLXxOvAjrPT",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-31506": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334286-XcHY46EtqEAHcHLFOuET",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2020-10691": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334321-cYM7HxD8I2HuqQHXWbvT",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-6831": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334384-5DNAFCarTPMe96noDXgA",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-3298": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334444-DyunIF11pYFzOydkTHM2",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-29159": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334480-NPvsDSLfRrNHfknnLhrj",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-28347": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334520-ws8aM10lZUjpppFs678F",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-33203": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334566-WJOtCO6UqXjneo2CK6xH",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-26145": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334631-0uDArgLRtt0LaooCtVgY",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2025-23042": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334669-WUU4NKUZsLDRwpjJEj2r",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2024-5823": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334761-ESujCQZkgMuOaYGAp3L2",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2018-18074": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334839-5ZhMng1V8MLKdnCkpPep",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2019-7539": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334876-FkfaW80epkO7PYlxg4qW",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2025-27154": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334950-zWNcEsDw8tX7dVqgEQR0",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-29217": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792334985-dXHu3Y0P2o2CaBfhRQwU",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2021-45452": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792335058-2q7VS274drGDuA3SGN2e",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2023-32303": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792335119-mZW7d7gsX0RcxWCdWoj6",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  },
+  "CVE-2022-21699": {
+    "provider": "Google AI Studio",
+    "served_model": "google/gemini-2.5-pro",
+    "response_id": "gen-1792335167-rR9ljDxBNYOKp0Jy9V8X",
+    "finish_reason": "stop",
+    "empty_completions_before_delivery": 0
+  }
+}

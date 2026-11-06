@@ -1,0 +1,352 @@
+{
+  "CVE-2022-36087": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323465-EZJOGE1SR93UynyE3A5q"
+  },
+  "CVE-2023-33977": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323491-BMHJCW6jp2DPkf6iNTtC"
+  },
+  "CVE-2024-23334": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323507-UoS9zrGtHU1FMIdYJSpn"
+  },
+  "CVE-2022-0577": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323537-YyjGTOgxPncP6Um5KQhg"
+  },
+  "CVE-2021-31542": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323562-OFCNVMLSdNqFNq13HIma"
+  },
+  "CVE-2021-35042": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323582-ME9a5imwaHxL5UVokKbh"
+  },
+  "CVE-2024-39877": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323607-YsCZOxHR4srHtI5eTFHD"
+  },
+  "CVE-2019-10856": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323621-hH4UiZoXJfoIf6p9KqGK"
+  },
+  "CVE-2024-42005": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323646-xewkeYYwTq2l1ZCzaFkz"
+  },
+  "CVE-2024-49750": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323678-IYSH0rkvUyAiq8iUVlmU"
+  },
+  "CVE-2022-39286": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323718-LtWVQtfNRIiJYKyAQVqn"
+  },
+  "CVE-2021-39163": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323727-H42w4FZL01VOuTOtmb0K"
+  },
+  "CVE-2020-26215": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323743-dSkIETw5VXO1A6j4s7ep"
+  },
+  "CVE-2015-8213": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323751-mvw4kC2zcrWZcABui2eQ"
+  },
+  "CVE-2017-7233": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323779-tLyjvIGMFEe0RYz85ULj"
+  },
+  "CVE-2018-7753": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323800-3z2cu3YQSFMVK35sypAR"
+  },
+  "CVE-2021-4315": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323841-HGx9X8JfXW6cTUr5LmfX"
+  },
+  "CVE-2022-21683": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323918-1kWqbUp740zhhu12pwfp"
+  },
+  "CVE-2022-21712": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323963-oQSzxEe4nrN1fxw92ut9"
+  },
+  "CVE-2017-0360": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323982-okJjPYnkhI5HZOgA0LVt"
+  },
+  "CVE-2021-3583": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792323994-5bsdZrvJ6K4xQBAud7Bl"
+  },
+  "CVE-2023-41039": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324030-mkWAn5QxDc1iBTtcj9Bp"
+  },
+  "CVE-2022-41672": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324053-j4PXVGffv964QuKJdSfg"
+  },
+  "CVE-2023-41040": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324126-HUereFzPiioKHwnxNxoH"
+  },
+  "CVE-2023-34233": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324163-Bkzwv7IJKkj9UR8QVDnj"
+  },
+  "CVE-2022-24065": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324204-wG3lYCtLsihJHkDiqP62"
+  },
+  "CVE-2021-21360": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324234-XJBXGiFz4MK6ugAFpFEq"
+  },
+  "CVE-2022-4724": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324257-QPI7x1ma02UzWA0dVuEV"
+  },
+  "CVE-2020-25459": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324307-lObT2j3W7qWLO9zbzBfF"
+  },
+  "CVE-2021-21354": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324319-w8UE7MLs0CZUmMkTtgxM"
+  },
+  "CVE-2021-3987": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324331-dvwLCm4kJPPFDLCKUo7F"
+  },
+  "CVE-2018-14574": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324343-dvLqL3bRlypMxSszNVtu"
+  },
+  "CVE-2025-43859": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324393-W4IEsHwhAnvvQQXRwTXI"
+  },
+  "CVE-2023-49736": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324420-skK3v7wSEed1fEgcH6Hl"
+  },
+  "CVE-2023-34457": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324438-dJWXnQX7Q5agiDjl6QNv"
+  },
+  "CVE-2024-48911": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324509-6wb8joFEslOGD63Ph4Vi"
+  },
+  "CVE-2023-45809": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324537-OCnqBQssRqBhGLRME1pv"
+  },
+  "CVE-2015-1326": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324549-qyaMLirHtdk7jGRnnAq9"
+  },
+  "CVE-2024-3848": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324560-WtkMA1Dxkab2VhFORLrD"
+  },
+  "CVE-2024-3571": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324585-w619M44HHCMTaA0p5UMt"
+  },
+  "CVE-2019-16789": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324604-V35cpY1RDm3AT6TS9JEu"
+  },
+  "CVE-2024-39330": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324668-QIzi031sLDf74FiRbane"
+  },
+  "CVE-2021-3281": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324687-Y4BgG8ck0kJqyPXZgT7V"
+  },
+  "CVE-2021-41125": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324716-njEuCnHLWZCLxiglWplB"
+  },
+  "CVE-2022-28346": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324732-9lLybHld4hUfQe17fb2B"
+  },
+  "CVE-2020-15278": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324761-x9OAHsYcGpNHe9mfKcSH"
+  },
+  "CVE-2023-30172": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324806-xl2xgLSTlI5s6VOeHiAl"
+  },
+  "CVE-2023-39631": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324852-PW5hqOiBDQKOXYBJ70qp"
+  },
+  "CVE-2024-21542": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324885-ktFnlhivtG0dqAjhndEK"
+  },
+  "CVE-2024-0243": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324907-dTBwDjY6THMjTCVNpL9V"
+  },
+  "CVE-2021-23727": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324954-3CEbPLGXpHB1Hp5coPjg"
+  },
+  "CVE-2023-39660": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792324979-og1NPTEL3UZvNtM6CY4V"
+  },
+  "CVE-2023-40267": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325008-Mq9GTxYw5J83667nsQmF"
+  },
+  "CVE-2022-31506": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325048-LmuLvik0IvtmiFAP2eGF"
+  },
+  "CVE-2020-10691": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325060-Sj5DnZ2y0kpKTQoHpKvf"
+  },
+  "CVE-2023-6831": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325104-2W7vWkGwCERuP6JnkK7i"
+  },
+  "CVE-2022-3298": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325126-zp8HoYwVxwdr1ZCbIw5j"
+  },
+  "CVE-2023-29159": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325140-gGdX6lsWVklIvgkTtD6n"
+  },
+  "CVE-2022-28347": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325158-2hSM5Utq7896oFNYCbnE"
+  },
+  "CVE-2021-33203": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325177-mCyjQrZrEgeL53xJh8Vp"
+  },
+  "CVE-2023-26145": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325193-SmZushK4Ov2hMBg1VMyu"
+  },
+  "CVE-2025-23042": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325216-hcFnva6arN0qyfOcBS0j"
+  },
+  "CVE-2024-5823": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325234-353fOJitOUaz9yQQRpyv"
+  },
+  "CVE-2018-18074": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325256-Os6cVzVLEuW6vCos2wfe"
+  },
+  "CVE-2019-7539": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325270-VMPv1B6LdigQ1HccfcBu"
+  },
+  "CVE-2025-27154": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325295-3c66ysnny3WOgwR8iPnN"
+  },
+  "CVE-2022-29217": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325306-Jq5YcUts3qk0ToUMO7v4"
+  },
+  "CVE-2021-45452": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325333-Wk5v67fZr3edgqc2NUoL"
+  },
+  "CVE-2023-32303": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325392-fZJYx4QoWE0AL4QsubjZ"
+  },
+  "CVE-2022-21699": {
+    "provider": "SiliconFlow",
+    "served_model": "deepseek/deepseek-chat-v3-0324",
+    "response_id": "gen-1792325404-EuI2N6Z4mYhImKk5cVmf"
+  }
+}

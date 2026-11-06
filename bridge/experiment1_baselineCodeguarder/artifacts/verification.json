@@ -1,0 +1,56 @@
+{
+  "checks": [
+    {
+      "check": "targets are PatchEval's records without the answer",
+      "passed": true,
+      "detail": "70/70 equal a fresh build from patcheval_dataset.json; no reference fix, PoC or test field"
+    },
+    {
+      "check": "find_root_causes is verbatim",
+      "passed": true,
+      "detail": "found in Defense_Standard.py, sha256 bdb6a5f20cf1 matches retrieval record"
+    },
+    {
+      "check": "remove_duplicates_preserve_order is verbatim",
+      "passed": true,
+      "detail": "found in utils.py, sha256 403f5d3f39ec matches retrieval record"
+    },
+    {
+      "check": "knowledge block matches construct_prompt",
+      "passed": true,
+      "detail": "70/70 blocks appear verbatim in their construct_prompt output"
+    },
+    {
+      "check": "index unchanged",
+      "passed": true,
+      "detail": "16141 records, dim 1024"
+    },
+    {
+      "check": "selection equals brute-force nearest neighbours",
+      "passed": true,
+      "detail": "70/70 targets reproduced exactly"
+    },
+    {
+      "check": "two records per target",
+      "passed": true,
+      "detail": "all 70 targets carry 2 records"
+    },
+    {
+      "check": "template is PatchEval's Default.txt with the documented edits",
+      "passed": true,
+      "detail": "4/4 edits apply once each and nothing else differs"
+    },
+    {
+      "check": "arm B is the template with an empty knowledge slot",
+      "passed": true,
+      "detail": "70/70 arm-B prompts byte-identical to the template rendered without knowledge"
+    },
+    {
+      "check": "knowledge block is the only difference",
+      "passed": true,
+      "detail": "70/70 arm-G prompts reduce to arm B when the block is removed"
+    }
+  ],
+  "passed": 10,
+  "total": 10
+}

@@ -1,0 +1,24 @@
+# model calls and patch building
+openai==2.43.0
+httpx==0.28.1
+requests==2.34.2
+certifi==2026.6.17
+numpy==2.5.3
+
+# FAISS search
+langchain-community==0.4.2
+langchain-core==1.6.4
+faiss-cpu==1.15.1
+
+# Query embedding (imports CodeGuarder's Defense_Standard.py)
+torch==2.14.0
+transformers==4.47.0
+einops==0.8.2
+scikit-learn==1.9.1
+langchain-text-splitters==1.1.2
+mistune==3.3.4
+sacrebleu==2.6.0
+tqdm==4.68.3
+
+# Evaluation (PatchEval's Docker evaluator) 
+docker==7.1.0
